@@ -3,9 +3,8 @@
 
 **Track the struggle. Sync the growth. Earn your future and proof of struggle.**
 
-GRIT Sync is your personal vault, logbook, and accountability tracker inside the **GRIT Ecosystem**. Built for those doing the work with no spotlight, no VC, no shortcuts—just raw effort, real progress, and proof of struggle.
+GRIT Sync is your personal vault, logbook, and accountability tracker inside the **GRIT Ecosystem**. Built for those doing the work with no spotlight, no VC, no shortcuts just raw effort, real progress, and proof of struggle.
 
----
 
 ## 🚀 What Is GRIT Sync?
 
@@ -17,7 +16,6 @@ GRIT Sync is a Web3-powered journal and growth engine that lets you:
 - 📊 Rank up on the leaderboard with consistent action
 - 🏆 Unlock digital badges and rewards for effort over hype
 
----
 
 ## 🔧 Built With
 
@@ -30,14 +28,12 @@ GRIT Sync is a Web3-powered journal and growth engine that lets you:
   - tGRIT (Governance)
   - PoSg (Proof of Struggle Scoring)
 
----
 
 ## 🌐 Live URL
 
 > 🔗 [sync.solGRIT.online](https://sync.solgrit.online)  
 *(Coming soon – powered by GRIT DAO)*
 
----
 
 ## 📥 How to Use
 
@@ -47,22 +43,19 @@ GRIT Sync is a Web3-powered journal and growth engine that lets you:
 4. **Earn XP, Karma, and PoSg tokens**  
 5. **View your GRIT score + rank vs the world**
 
----
 
 ## 🏁 Why GRIT Sync?
 
-Because you’re not just a user—you’re a builder, a struggler, a fighter.  
+Because you’re not just a user; you’re a builder, a struggler, a fighter.  
 We don’t track likes. We track **resilience**.
 
 If no one’s watching, GRIT Sync still is.
 
----
 
 ## 📜 License
 
 This project is open-source under the [MIT License](LICENSE).
 
----
 
 ## 🙌 Contribute
 
@@ -74,7 +67,6 @@ If you're real like that—jump in:
 - Join [Telegram](https://t.me/BuiltOnGrit)
 - Share your GRIT story with `#ProofOfStruggle`
 
----
 
 ## 🩸 From the Founder
 
